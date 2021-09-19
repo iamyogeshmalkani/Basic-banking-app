@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iamyogeshmalkani/Spark-task/static/css/main.0657acaf.chunk.css",
+    "main.js": "/iamyogeshmalkani/Spark-task/static/js/main.c89e2e6a.chunk.js",
+    "main.js.map": "/iamyogeshmalkani/Spark-task/static/js/main.c89e2e6a.chunk.js.map",
+    "runtime-main.js": "/iamyogeshmalkani/Spark-task/static/js/runtime-main.3a24a81b.js",
+    "runtime-main.js.map": "/iamyogeshmalkani/Spark-task/static/js/runtime-main.3a24a81b.js.map",
+    "static/css/2.818011ed.chunk.css": "/iamyogeshmalkani/Spark-task/static/css/2.818011ed.chunk.css",
+    "static/js/2.c65c5ce6.chunk.js": "/iamyogeshmalkani/Spark-task/static/js/2.c65c5ce6.chunk.js",
+    "static/js/2.c65c5ce6.chunk.js.map": "/iamyogeshmalkani/Spark-task/static/js/2.c65c5ce6.chunk.js.map",
+    "static/js/3.3f5d14f2.chunk.js": "/iamyogeshmalkani/Spark-task/static/js/3.3f5d14f2.chunk.js",
+    "static/js/3.3f5d14f2.chunk.js.map": "/iamyogeshmalkani/Spark-task/static/js/3.3f5d14f2.chunk.js.map",
+    "index.html": "/iamyogeshmalkani/Spark-task/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/iamyogeshmalkani/Spark-task/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.0657acaf.chunk.css.map": "/iamyogeshmalkani/Spark-task/static/css/main.0657acaf.chunk.css.map",
+    "static/js/2.c65c5ce6.chunk.js.LICENSE.txt": "/iamyogeshmalkani/Spark-task/static/js/2.c65c5ce6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a24a81b.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.c65c5ce6.chunk.js",
+    "static/css/main.0657acaf.chunk.css",
+    "static/js/main.c89e2e6a.chunk.js"
+  ]
+}
