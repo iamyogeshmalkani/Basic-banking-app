@@ -1,0 +1,150 @@
+.App {
+  text-align: center;
+  
+ 
+  
+
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.mainhome{
+  display: flex;
+  flex-direction: row;
+
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.left{
+  width: 30rem;
+ margin-top: 10rem;
+ text-align: left;
+ margin-left: 5%;
+ 
+  
+}
+.left button{
+  margin-top: 1rem;
+}
+.right{
+  margin-left: 22%;
+  margin-top: 10%;
+  
+}
+.right img{
+  float: right;
+  width: auto;
+  height: 18rem;
+}
+.footer{
+  margin-top: 8rem;
+  
+}
+.customercard{
+  width: 18rem;
+  margin: 10px auto 10px auto;
+}
+
+/* .footer{
+  margin-top: auto;
+ 
+  
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+} */
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.transactionTable{
+  max-width: 50rem;
+ 
+  margin: auto;
+}
+.customers{
+  
+ max-width: 70rem;
+ margin: auto;
+  margin-top: 2rem;
+}
+.navbarimp{
+  background-color:#72bcd4;
+}
+.suggestion{
+  margin: 20px;
+  width: 35.0%;
+  
+}
+.srchList{
+ padding-bottom: 0.1px;
+}
+.srchList li{
+  color: white;
+}
+.transaction-data{
+
+margin-top: 15px;
+}
+.transactionTable{
+  margin-top: 25px;
+  min-width: 18rem;
+
+}
+.cardib{
+  width: 18rem;
+  margin: auto;
+  margin-top: 20px;
+  padding: 1rem;
+}
+.cardib img{
+  height: 6rem;
+  width: 6rem;
+  margin: auto;
+}
+.customers button{
+  background-color: rgb(114,188,212);
+  color: white;
+}
+.customercard a{
+  background-color: rgb(114,188,212);
+  color: white;
+}
+.transfer a {
+  background-color: rgb(114,188,212);
+  color: white;
+}
+.cardib a{
+  background-color: rgb(114,188,212);
+  color: white;
+}
+
