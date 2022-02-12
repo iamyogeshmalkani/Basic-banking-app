@@ -19,7 +19,7 @@ const srno=8;
   <div className="App">
      <Navbar />
      <Switch>
-       <Route path="/" exact component={Home} />
+       <Route path="/Basic-banking-app" exact component={Home} />
        <Route path="/customers" exact component={ViewCustomer} />
       <Route path="/transactions" component={Transactions}/>
       <Route path="/customers/:id" exact component={Customerdetails} />
