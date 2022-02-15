@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Spark-task/static/css/main.0657acaf.chunk.css",
-    "main.js": "/Spark-task/static/js/main.c89e2e6a.chunk.js",
-    "main.js.map": "/Spark-task/static/js/main.c89e2e6a.chunk.js.map",
-    "runtime-main.js": "/Spark-task/static/js/runtime-main.814a2874.js",
-    "runtime-main.js.map": "/Spark-task/static/js/runtime-main.814a2874.js.map",
-    "static/css/2.818011ed.chunk.css": "/Spark-task/static/css/2.818011ed.chunk.css",
-    "static/js/2.c65c5ce6.chunk.js": "/Spark-task/static/js/2.c65c5ce6.chunk.js",
-    "static/js/2.c65c5ce6.chunk.js.map": "/Spark-task/static/js/2.c65c5ce6.chunk.js.map",
-    "static/js/3.3f5d14f2.chunk.js": "/Spark-task/static/js/3.3f5d14f2.chunk.js",
-    "static/js/3.3f5d14f2.chunk.js.map": "/Spark-task/static/js/3.3f5d14f2.chunk.js.map",
-    "index.html": "/Spark-task/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/Spark-task/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.0657acaf.chunk.css.map": "/Spark-task/static/css/main.0657acaf.chunk.css.map",
-    "static/js/2.c65c5ce6.chunk.js.LICENSE.txt": "/Spark-task/static/js/2.c65c5ce6.chunk.js.LICENSE.txt"
+    "main.css": "/Basic-banking-app/static/css/main.0657acaf.chunk.css",
+    "main.js": "/Basic-banking-app/static/js/main.1f164808.chunk.js",
+    "main.js.map": "/Basic-banking-app/static/js/main.1f164808.chunk.js.map",
+    "runtime-main.js": "/Basic-banking-app/static/js/runtime-main.b3401b24.js",
+    "runtime-main.js.map": "/Basic-banking-app/static/js/runtime-main.b3401b24.js.map",
+    "static/css/2.818011ed.chunk.css": "/Basic-banking-app/static/css/2.818011ed.chunk.css",
+    "static/js/2.c65c5ce6.chunk.js": "/Basic-banking-app/static/js/2.c65c5ce6.chunk.js",
+    "static/js/2.c65c5ce6.chunk.js.map": "/Basic-banking-app/static/js/2.c65c5ce6.chunk.js.map",
+    "static/js/3.3f5d14f2.chunk.js": "/Basic-banking-app/static/js/3.3f5d14f2.chunk.js",
+    "static/js/3.3f5d14f2.chunk.js.map": "/Basic-banking-app/static/js/3.3f5d14f2.chunk.js.map",
+    "index.html": "/Basic-banking-app/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/Basic-banking-app/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.0657acaf.chunk.css.map": "/Basic-banking-app/static/css/main.0657acaf.chunk.css.map",
+    "static/js/2.c65c5ce6.chunk.js.LICENSE.txt": "/Basic-banking-app/static/js/2.c65c5ce6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.814a2874.js",
+    "static/js/runtime-main.b3401b24.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.c65c5ce6.chunk.js",
     "static/css/main.0657acaf.chunk.css",
-    "static/js/main.c89e2e6a.chunk.js"
+    "static/js/main.1f164808.chunk.js"
   ]
 }
