@@ -9,7 +9,7 @@ export default function Navbar() {
                     <img src="https://www.thesparksfoundationsingapore.org/images/logo_small.png"></img>
                 
                 <div className="navbar-right">
-                    <Link to="/">
+                    <Link to="/Basic-banking-app">
                     <a >Home</a>
                     </Link>
 
