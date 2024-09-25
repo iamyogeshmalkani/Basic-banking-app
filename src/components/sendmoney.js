@@ -1,11 +1,11 @@
 
   import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";  // Import useParams
+import { useParams } from "react-router-dom"; 
 import Customers from "./Customers";
 import TransData from "./Transactionsdata"; 
 
 function SendMoney() {
-  const { id } = useParams();  // Use useParams hook to get id
+  const { id } = useParams();  
 
   const [customer, setCustomer] = useState({});
   const [amount, setAmount] = useState(0);
