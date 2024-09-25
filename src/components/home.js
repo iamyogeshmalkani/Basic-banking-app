@@ -27,7 +27,7 @@ export default function Home() {
 
             </div>
             <div className="right">
-            <img src={image}></img>
+            <img src={image} alt='not found'/>
 
             </div>
           

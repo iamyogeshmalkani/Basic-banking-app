@@ -11,6 +11,7 @@ export default function Table(props) {
       <td>₹ {props.customer.balance}</td>
       <td> 
         <Link to={`/customers/${props.customer.id}`}>
+        
         <button type="button"  class="btn ">view</button>
         </Link>
       

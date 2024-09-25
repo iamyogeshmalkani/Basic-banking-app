@@ -19,7 +19,7 @@ code {
   padding-right: 10px;
   display: flex;
   flex-direction: row;
-  gap: 10px;
+  gap: 30px;
 }
 .navbar img{
   height: 70px;
@@ -31,6 +31,9 @@ code {
  color: honeydew;
  font-weight: bold;
 
+}
+.navbar a:hover{
+  color: rgba(0, 0, 0, 0.603);
 }
 .input {
   margin-top: 50px;

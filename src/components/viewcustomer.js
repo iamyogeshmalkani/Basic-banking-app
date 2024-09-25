@@ -24,7 +24,7 @@ useEffect(() => {
     <th scope="col">Name</th>
     <th scope="col">E-mail</th>
     <th scope="col">Bank Balance</th>
-    <th scope="col">View </th>
+    <th scope="col">View</th>
   </tr>
 </thead>
 <tbody>
